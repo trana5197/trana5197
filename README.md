@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ytimg.com/vi/cWuzJBboQyE/maxresdefault.jpg)]
+![MasterHead](https://i.ytimg.com/vi/cWuzJBboQyE/maxresdefault.jpg)
 <h1 align="center">Hi 👋, I'm Tarun Rana</h1>
 <h3 align="center">A passionate full stack developer. Learning my way to open source.</h3>
 <img align="right" alt="coding" width="400" src="https://as2.ftcdn.net/v2/jpg/03/13/40/45/1000_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" >
